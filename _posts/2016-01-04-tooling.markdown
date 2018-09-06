@@ -93,7 +93,7 @@ Worth adding three things here:
 You can linting and fixing to your editor too but I'll leave that to you. It can be a bit finnicky to get going. I'll be using [SublimeLinter][sl] and [sublimelinter-contrib-eslint][slce] (you need both.)
 
 [jlongster]: https://twitter.com/jlongster
-[prettier]: https://github.com/prettier/prettier
+[prettier]: https://prettier.io/docs/en/editors.html
 [prettier-playground]: https://prettier.github.io/prettier/
 [prettier-options]: https://github.com/prettier/prettier#api
 [flow]: https://flow.org/
